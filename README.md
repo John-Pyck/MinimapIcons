@@ -1,2 +1,1 @@
 MinimapIcons
-"# MinimapIcons" 
